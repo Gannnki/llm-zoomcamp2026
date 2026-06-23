@@ -4,3 +4,5 @@ __pycache__/
 .envrc
 .tmp
 .env
+.uv-cache/
+faq.db

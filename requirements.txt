@@ -1,0 +1,6 @@
+ipykernel
+jupyter
+minsearch
+openai
+python-dotenv
+requests
