@@ -21,8 +21,8 @@ def load_faq_data():
 
 def build_index(documents):
     index = Index(
-        text_fields=["question", "section", "answer"],
-        keyword_fields=["course"]
+        text_fields=["content"],
+        keyword_fields=["filename"]
     )
     index.fit(documents)
     return index
