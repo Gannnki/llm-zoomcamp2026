@@ -7,3 +7,4 @@ __pycache__/
 .uv-cache/
 faq.db
 models/
+data/
